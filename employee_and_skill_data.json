@@ -1,0 +1,980 @@
+{
+  "external-recruitment-service": [
+    {
+      "candidateId": 1000,
+      "fullname": "James Butt",
+      "skillsets": [
+        "java",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1001,
+      "fullname": "Josephine Darakjy",
+      "skillsets": [
+        "css",
+        "docker",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1002,
+      "fullname": "Art Venere",
+      "skillsets": [
+        "spring-boot",
+        "docker",
+        "azure",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1003,
+      "fullname": "Lenna Paprocki",
+      "skillsets": [
+        "ruby",
+        "aws",
+        "html",
+        "spring-boot",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1004,
+      "fullname": "Donette Foller",
+      "skillsets": [
+        "css",
+        "html",
+        "spring-boot"
+      ]
+    },
+    {
+      "candidateId": 1005,
+      "fullname": "Simona Morasca",
+      "skillsets": [
+        "kotlin",
+        "spring-boot",
+        "aws",
+        "docker",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1006,
+      "fullname": "Mitsue Tollner",
+      "skillsets": [
+        "css",
+        "kubernetes",
+        "java",
+        "spring-boot"
+      ]
+    },
+    {
+      "candidateId": 1007,
+      "fullname": "Leota Dilliard",
+      "skillsets": [
+        "aws",
+        "ruby",
+        "css"
+      ]
+    },
+    {
+      "candidateId": 1008,
+      "fullname": "Sage Wieser",
+      "skillsets": [
+        "css",
+        "aws"
+      ]
+    },
+    {
+      "candidateId": 1009,
+      "fullname": "Kris Marrier",
+      "skillsets": [
+        "azure",
+        "java",
+        "kubernetes",
+        "docker",
+        "kotlin"
+      ]
+    },
+    {
+      "candidateId": 1010,
+      "fullname": "Minna Amigon",
+      "skillsets": [
+        "aws",
+        "ruby",
+        "azure",
+        "docker",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1011,
+      "fullname": "Abel Maclead",
+      "skillsets": [
+        "java",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1012,
+      "fullname": "Kiley Caldarera",
+      "skillsets": [
+        "c++",
+        "ruby",
+        "kotlin"
+      ]
+    },
+    {
+      "candidateId": 1013,
+      "fullname": "Graciela Ruta",
+      "skillsets": [
+        "spring-boot",
+        "c++",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1014,
+      "fullname": "Cammy Albares",
+      "skillsets": [
+        "kotlin",
+        "aws",
+        "gcp",
+        "azure",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1015,
+      "fullname": "Mattie Poquette",
+      "skillsets": [
+        "ruby",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1016,
+      "fullname": "Meaghan Garufi",
+      "skillsets": [
+        "css",
+        "kubernetes"
+      ]
+    },
+    {
+      "candidateId": 1017,
+      "fullname": "Gladys Rim",
+      "skillsets": [
+        "gcp",
+        "kubernetes",
+        "spring-boot",
+        "html",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1018,
+      "fullname": "Yuki Whobrey",
+      "skillsets": [
+        "docker",
+        "html",
+        "java",
+        "javascript"
+      ]
+    },
+    {
+      "candidateId": 1019,
+      "fullname": "Fletcher Flosi",
+      "skillsets": [
+        "spring-boot",
+        "kotlin",
+        "javascript",
+        "azure",
+        "aws"
+      ]
+    },
+    {
+      "candidateId": 1020,
+      "fullname": "Bette Nicka",
+      "skillsets": [
+        "aws",
+        "javascript",
+        "c++",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1021,
+      "fullname": "Veronika Inouye",
+      "skillsets": [
+        "azure",
+        "ruby",
+        "kotlin",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1022,
+      "fullname": "Willard Kolmetz",
+      "skillsets": [
+        "kotlin",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1023,
+      "fullname": "Maryann Royster",
+      "skillsets": [
+        "azure",
+        "kubernetes",
+        "java",
+        "kotlin",
+        "javascript"
+      ]
+    },
+    {
+      "candidateId": 1024,
+      "fullname": "Alisha Slusarski",
+      "skillsets": [
+        "kubernetes",
+        "kotlin",
+        "javascript"
+      ]
+    },
+    {
+      "candidateId": 1025,
+      "fullname": "Allene Iturbide",
+      "skillsets": [
+        "kubernetes",
+        "spring-boot",
+        "css",
+        "c++",
+        "java"
+      ]
+    },
+    {
+      "candidateId": 1026,
+      "fullname": "Chanel Caudy",
+      "skillsets": [
+        "html",
+        "azure",
+        "css",
+        "spring-boot"
+      ]
+    },
+    {
+      "candidateId": 1027,
+      "fullname": "Ezekiel Chui",
+      "skillsets": [
+        "javascript",
+        "css",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1028,
+      "fullname": "Willow Kusko",
+      "skillsets": [
+        "azure",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1029,
+      "fullname": "Bernardo Figeroa",
+      "skillsets": [
+        "css",
+        "docker",
+        "azure",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1030,
+      "fullname": "Ammie Corrio",
+      "skillsets": [
+        "c++",
+        "html",
+        "docker",
+        "css",
+        "java"
+      ]
+    },
+    {
+      "candidateId": 1031,
+      "fullname": "Francine Vocelka",
+      "skillsets": [
+        "azure",
+        "aws",
+        "javascript",
+        "kotlin"
+      ]
+    },
+    {
+      "candidateId": 1032,
+      "fullname": "Ernie Stenseth",
+      "skillsets": [
+        "aws",
+        "kotlin",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1033,
+      "fullname": "Albina Glick",
+      "skillsets": [
+        "spring-boot",
+        "html",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1034,
+      "fullname": "Alishia Sergi",
+      "skillsets": [
+        "gcp",
+        "c++",
+        "javascript",
+        "azure",
+        "java"
+      ]
+    },
+    {
+      "candidateId": 1035,
+      "fullname": "Solange Shinko",
+      "skillsets": [
+        "java",
+        "kubernetes",
+        "ruby",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1036,
+      "fullname": "Jose Stockham",
+      "skillsets": [
+        "css",
+        "javascript"
+      ]
+    },
+    {
+      "candidateId": 1037,
+      "fullname": "Rozella Ostrosky",
+      "skillsets": [
+        "javascript",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1038,
+      "fullname": "Valentine Gillian",
+      "skillsets": [
+        "azure",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1039,
+      "fullname": "Kati Rulapaugh",
+      "skillsets": [
+        "java",
+        "html",
+        "css",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1040,
+      "fullname": "Youlanda Schemmer",
+      "skillsets": [
+        "aws",
+        "c++",
+        "kotlin",
+        "kubernetes"
+      ]
+    },
+    {
+      "candidateId": 1041,
+      "fullname": "Dyan Oldroyd",
+      "skillsets": [
+        "kubernetes",
+        "aws",
+        "ruby",
+        "gcp",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1042,
+      "fullname": "Roxane Campain",
+      "skillsets": [
+        "kotlin",
+        "c++",
+        "docker",
+        "gcp",
+        "spring-boot"
+      ]
+    },
+    {
+      "candidateId": 1043,
+      "fullname": "Lavera Perin",
+      "skillsets": [
+        "html",
+        "aws",
+        "gcp",
+        "kubernetes"
+      ]
+    },
+    {
+      "candidateId": 1044,
+      "fullname": "Erick Ferencz",
+      "skillsets": [
+        "azure",
+        "ruby",
+        "javascript",
+        "spring-boot"
+      ]
+    },
+    {
+      "candidateId": 1045,
+      "fullname": "Fatima Saylors",
+      "skillsets": [
+        "kubernetes",
+        "docker",
+        "java",
+        "gcp",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1046,
+      "fullname": "Jina Briddick",
+      "skillsets": [
+        "gcp",
+        "azure",
+        "spring-boot"
+      ]
+    },
+    {
+      "candidateId": 1047,
+      "fullname": "Kanisha Waycott",
+      "skillsets": [
+        "html",
+        "java"
+      ]
+    },
+    {
+      "candidateId": 1048,
+      "fullname": "Emerson Bowley",
+      "skillsets": [
+        "java",
+        "spring-boot",
+        "azure",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1049,
+      "fullname": "Blair Malet",
+      "skillsets": [
+        "javascript",
+        "kubernetes",
+        "ruby",
+        "css",
+        "kotlin"
+      ]
+    }
+  ],
+  "internal-recruitment-service": [
+    {
+      "candidateId": 1050,
+      "fullname": "Brock Bolognia",
+      "skillsets": [
+        "gcp",
+        "aws",
+        "ruby",
+        "kubernetes",
+        "java"
+      ]
+    },
+    {
+      "candidateId": 1051,
+      "fullname": "Lorrie Nestle",
+      "skillsets": [
+        "c++",
+        "css",
+        "kotlin",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1052,
+      "fullname": "Sabra Uyetake",
+      "skillsets": [
+        "kubernetes",
+        "azure",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1053,
+      "fullname": "Marjory Mastella",
+      "skillsets": [
+        "azure",
+        "aws",
+        "docker",
+        "gcp",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1054,
+      "fullname": "Karl Klonowski",
+      "skillsets": [
+        "javascript",
+        "kotlin"
+      ]
+    },
+    {
+      "candidateId": 1055,
+      "fullname": "Tonette Wenner",
+      "skillsets": [
+        "kotlin",
+        "java",
+        "javascript",
+        "azure"
+      ]
+    },
+    {
+      "candidateId": 1056,
+      "fullname": "Amber Monarrez",
+      "skillsets": [
+        "css",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1057,
+      "fullname": "Shenika Seewald",
+      "skillsets": [
+        "kubernetes",
+        "kotlin",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1058,
+      "fullname": "Delmy Ahle",
+      "skillsets": [
+        "docker",
+        "azure",
+        "kubernetes",
+        "css",
+        "java"
+      ]
+    },
+    {
+      "candidateId": 1059,
+      "fullname": "Deeanna Juhas",
+      "skillsets": [
+        "ruby",
+        "aws",
+        "javascript"
+      ]
+    },
+    {
+      "candidateId": 1060,
+      "fullname": "Blondell Pugh",
+      "skillsets": [
+        "kubernetes",
+        "azure"
+      ]
+    },
+    {
+      "candidateId": 1061,
+      "fullname": "Jamal Vanausdal",
+      "skillsets": [
+        "javascript",
+        "ruby",
+        "kotlin",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1062,
+      "fullname": "Cecily Hollack",
+      "skillsets": [
+        "gcp",
+        "html",
+        "javascript",
+        "kubernetes",
+        "kotlin"
+      ]
+    },
+    {
+      "candidateId": 1063,
+      "fullname": "Carmelina Lindall",
+      "skillsets": [
+        "c++",
+        "kubernetes"
+      ]
+    },
+    {
+      "candidateId": 1064,
+      "fullname": "Maurine Yglesias",
+      "skillsets": [
+        "aws",
+        "docker",
+        "kotlin",
+        "css",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1065,
+      "fullname": "Tawna Buvens",
+      "skillsets": [
+        "ruby",
+        "azure",
+        "aws",
+        "kubernetes",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1066,
+      "fullname": "Penney Weight",
+      "skillsets": [
+        "gcp",
+        "aws",
+        "javascript",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1067,
+      "fullname": "Elly Morocco",
+      "skillsets": [
+        "html",
+        "java",
+        "css"
+      ]
+    },
+    {
+      "candidateId": 1068,
+      "fullname": "Ilene Eroman",
+      "skillsets": [
+        "docker",
+        "aws",
+        "c++",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1069,
+      "fullname": "Vallie Mondella",
+      "skillsets": [
+        "azure",
+        "java",
+        "javascript",
+        "html",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1070,
+      "fullname": "Kallie Blackwood",
+      "skillsets": [
+        "c++",
+        "gcp",
+        "kubernetes",
+        "ruby",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1071,
+      "fullname": "Johnetta Abdallah",
+      "skillsets": [
+        "css",
+        "spring-boot",
+        "kubernetes",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1072,
+      "fullname": "Bobbye Rhym",
+      "skillsets": [
+        "html",
+        "gcp",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1073,
+      "fullname": "Micaela Rhymes",
+      "skillsets": [
+        "azure",
+        "html",
+        "docker",
+        "java"
+      ]
+    },
+    {
+      "candidateId": 1074,
+      "fullname": "Tamar Hoogland",
+      "skillsets": [
+        "java",
+        "kotlin",
+        "spring-boot",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1075,
+      "fullname": "Moon Parlato",
+      "skillsets": [
+        "docker",
+        "javascript",
+        "aws",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1076,
+      "fullname": "Laurel Reitler",
+      "skillsets": [
+        "java",
+        "azure"
+      ]
+    },
+    {
+      "candidateId": 1077,
+      "fullname": "Delisa Crupi",
+      "skillsets": [
+        "kotlin",
+        "c++",
+        "azure",
+        "spring-boot",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1078,
+      "fullname": "Viva Toelkes",
+      "skillsets": [
+        "html",
+        "kubernetes",
+        "ruby",
+        "azure"
+      ]
+    },
+    {
+      "candidateId": 1079,
+      "fullname": "Elza Lipke",
+      "skillsets": [
+        "kotlin",
+        "html",
+        "aws"
+      ]
+    },
+    {
+      "candidateId": 1080,
+      "fullname": "Devorah Chickering",
+      "skillsets": [
+        "docker",
+        "azure",
+        "html",
+        "c++",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1081,
+      "fullname": "Timothy Mulqueen",
+      "skillsets": [
+        "css",
+        "c++",
+        "azure"
+      ]
+    },
+    {
+      "candidateId": 1082,
+      "fullname": "Arlette Honeywell",
+      "skillsets": [
+        "css",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1083,
+      "fullname": "Dominque Dickerson",
+      "skillsets": [
+        "c++",
+        "ruby",
+        "java",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1084,
+      "fullname": "Lettie Isenhower",
+      "skillsets": [
+        "c++",
+        "ruby",
+        "aws",
+        "css",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1085,
+      "fullname": "Myra Munns",
+      "skillsets": [
+        "ruby",
+        "java",
+        "kotlin"
+      ]
+    },
+    {
+      "candidateId": 1086,
+      "fullname": "Stephaine Barfield",
+      "skillsets": [
+        "html",
+        "css",
+        "docker",
+        "c++"
+      ]
+    },
+    {
+      "candidateId": 1087,
+      "fullname": "Lai Gato",
+      "skillsets": [
+        "aws",
+        "java",
+        "c++",
+        "azure"
+      ]
+    },
+    {
+      "candidateId": 1088,
+      "fullname": "Stephen Emigh",
+      "skillsets": [
+        "html",
+        "css",
+        "docker"
+      ]
+    },
+    {
+      "candidateId": 1089,
+      "fullname": "Tyra Shields",
+      "skillsets": [
+        "azure",
+        "kubernetes",
+        "aws",
+        "docker",
+        "gcp"
+      ]
+    },
+    {
+      "candidateId": 1090,
+      "fullname": "Tammara Wardrip",
+      "skillsets": [
+        "kotlin",
+        "azure",
+        "javascript"
+      ]
+    },
+    {
+      "candidateId": 1091,
+      "fullname": "Cory Gibes",
+      "skillsets": [
+        "gcp",
+        "azure",
+        "spring-boot",
+        "javascript"
+      ]
+    },
+    {
+      "candidateId": 1092,
+      "fullname": "Danica Bruschke",
+      "skillsets": [
+        "docker",
+        "spring-boot",
+        "ruby",
+        "javascript",
+        "html"
+      ]
+    },
+    {
+      "candidateId": 1093,
+      "fullname": "Wilda Giguere",
+      "skillsets": [
+        "gcp",
+        "spring-boot",
+        "kubernetes",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1094,
+      "fullname": "Elvera Benimadho",
+      "skillsets": [
+        "ruby",
+        "java",
+        "docker",
+        "azure"
+      ]
+    },
+    {
+      "candidateId": 1095,
+      "fullname": "Carma Vanheusen",
+      "skillsets": [
+        "javascript",
+        "css",
+        "kotlin",
+        "aws",
+        "spring-boot"
+      ]
+    },
+    {
+      "candidateId": 1096,
+      "fullname": "Malinda Hochard",
+      "skillsets": [
+        "kotlin",
+        "gcp",
+        "c++",
+        "ruby"
+      ]
+    },
+    {
+      "candidateId": 1097,
+      "fullname": "Natalie Fern",
+      "skillsets": [
+        "ruby",
+        "azure",
+        "kubernetes"
+      ]
+    },
+    {
+      "candidateId": 1098,
+      "fullname": "Lisha Centini",
+      "skillsets": [
+        "java",
+        "spring-boot",
+        "c++",
+        "css"
+      ]
+    },
+    {
+      "candidateId": 1099,
+      "fullname": "Sk Asif Iqbal",
+      "skillsets": [
+        "html",
+        "java",
+        "docker",
+        "kotlin"
+      ]
+    }
+  ]
+}
